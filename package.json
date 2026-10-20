@@ -14,5 +14,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaliegl/FeedbackToDoTaming_SkabDinEgenTaskmasterApp_TheSemicolons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amaliegl/FeedbackToDoTaming_SkabDinEgenTaskmasterApp_TheSemicolons/issues"
+  },
+  "homepage": "https://github.com/amaliegl/FeedbackToDoTaming_SkabDinEgenTaskmasterApp_TheSemicolons#readme"
 }
