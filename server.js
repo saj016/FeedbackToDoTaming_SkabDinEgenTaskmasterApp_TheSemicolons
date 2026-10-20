@@ -38,6 +38,7 @@ app.post('/api/tasks', async (req, res) => {
     if (req.body === undefined) {
         console.log('Indsendte task: ' + req.body);
         res.status(400).send('Opgave mangler. Påkrævet felt: text');
+        return;
     }
     const text = req.body.text;
 
